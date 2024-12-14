@@ -16,4 +16,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://photomanagementsystem-3.onrender.com'
+export const url = 'https://photomanagementsystem.onrender.com'
