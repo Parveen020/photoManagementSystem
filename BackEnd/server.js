@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 import { connectDB } from "./config/db.js";
-import imageRouter from "./routes/ImageRoute.js";
+import imageRouter from "./routes/imageRoute.js";
 
 //app config
 const app = express();
